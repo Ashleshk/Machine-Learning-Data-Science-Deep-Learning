@@ -1,2 +1,19 @@
 # Machine-Learning-Data-Science-Deep-Learning
- This REpository Consists All Courses, Projects and Online Learning Done in Context of Machine learning, Data Sceince And Deep Learning From Various Sources like Youtube, Coursera, Udemy And WEbsites like Scikit, Keras
+
+ This Repository Consists All Courses, Projects and Online Learning Done in Context of
+ > 1. Machine learning
+ > 2. Data Sceince
+ > 3. Deep Learning
+ > 4. Artificial Intelligence
+ > 5. OpenCV 
+ > 6. Computer Vision
+ 
+  From Various Sources like -
+  * Youtube
+  * Coursera
+  * Udemy
+  * Online Reference Documentation Guide
+    * Scikit - <a target="_blank" href="https://scikit-learn.org/stable/user_guide.html">link</a>
+    * Keras - <a target="_blank" href="https://keras.io/api/preprocessing/image/">link</a>
+    * NumPy - <a target="_blank" href="https://numpy.org/doc/stable/user/quickstart.html">link</a>
+    * OpenCV -<a target="_blaank" ref="https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_table_of_contents_gui/py_table_of_contents_gui.html">link</a>
