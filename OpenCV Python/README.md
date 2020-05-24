@@ -72,6 +72,12 @@
   * Image Inpainting
 * **Object Detection**
 * **Python Binding**
+
+## Project
+* **ROAD LANE DETECTION**
+* **FACE DETECTION**
+* **IMAGE SEGMENTATION USING CUSTOM POINTS** 
+
 ## Resouces
 * **Sample Codes**
   * Gitignored to due large Size
