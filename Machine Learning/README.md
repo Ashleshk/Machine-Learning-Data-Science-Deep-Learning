@@ -6,6 +6,9 @@
 A collection of machine learning examples and tutorials.
 
  ## Content Overview
+ * **Numpy Classes**
+  * dot-for
+  * Data loading
  * **AB Testing**
   * Bayesian Bandit Problem
   * ChiSqaure
@@ -32,3 +35,7 @@ A collection of machine learning examples and tutorials.
   * Bagging Classification
   * Bootstrap 
   * Random Forest
+ * **SVM**
+  * SVM_Spam
+  * SVM_medical
+  * kernel SVM
