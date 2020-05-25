@@ -39,10 +39,39 @@ A collection of machine learning examples and tutorials.
     * SVM_Spam
     * SVM_medical
     * kernel SVM
- * UnsuperVised Learning
+ * **UnsuperVised Learning**
     * GMM
     * KMeans
     * H CLuster
     * RBM
     * AutoEncoder
+ * **Tensorflow**
+    * MNIST DATASET VIsualization
+    * RL Trader 
+ * **Keras Example**
+    * Basic MLP
+    * ANN
+    * CNN
+    * Dropouts
+    * Sentiment Analysis
+ * **RNN**
+ * **CNN**
+    * Class Activation Map
+    * Fashion CNN
+    * RESNET CNN
+    * Siamese
+    * SSD
+ * **ANN** 
+    * BackProp
+    * ForwardProp
+    * SKLearn ANN
+    * Regression
+ * **NLP**
+    * Article Spinner
+    * Cipher Placeholder
+    * Spam
+    * Sentiment
+    * LSA 
+ * **MNIST CNN**
+ * **Recommender**
   
