@@ -1,0 +1,26 @@
+Random Features for Large-Scale Kernel Machines
+http://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf
+
+Reflections on Random Kitchen Sinks
+http://www.argmin.net/2017/12/05/kitchen-sinks/
+
+Weighted Sums of Random Kitchen Sinks: Replacing minimization with randomization in learning
+https://papers.nips.cc/paper/3495-weighted-sums-of-random-kitchen-sinks-replacing-minimization-with-randomization-in-learning
+
+This guy generated some nice plots and code to demonstrate that RBFSampler works like a real RBF Kernel
+https://www.kaggle.com/sy2002/rbfsampler-actually-is-not-using-any-rbfs
+
+Sutton & Barto
+http://incompleteideas.net/sutton/book/the-book-2nd.html
+
+Implementation Details of the TD(λ) Procedure for the Case of Vector Predictions and Backpropagation
+http://incompleteideas.net/papers/sutton-89.pdf
+
+Policy Gradient Methods for Reinforcement Learning with Function Approximation
+https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf
+
+Playing Atari with Deep Reinforcement Learning
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
+Asynchronous Methods for Deep Reinforcement Learning
+https://arxiv.org/pdf/1602.01783.pdf
