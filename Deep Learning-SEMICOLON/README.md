@@ -6,8 +6,8 @@ The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 The following Ipython notebooks are available on this repository. 
 
   Python for Data Analytics <br />
-1. [Learn Python in 10 Minutes](../master/Python%202.7%20Basics.ipynb)  <br />
-2. [Numpy and Matplotlib Tutorial](../master/Numpy%20and%20matplotlib.ipynb) <br />
+1. [Learn Python in 10 Minutes](../master/Deep%20Learning-SEMICOLON/Day-01/Python%202.7%20Basics.ipynb)  <br />
+2. [Numpy and Matplotlib Tutorial](../master/Deep%20Learning-SEMICOLON/Day-01/Numpy%20and%20matplotlib.ipynb) <br />
 3. [Pandas tutorial](../master/Pandas%20Tutorial.ipynb) <br />
 4. [Sklearn linear regression](../master/Sklearn%20Tutorial%20-%20Housing%20example.ipynb) <br />
 5. [Sklearn Random Forest Classifier](../master/Handwriting%20Recognition.ipynb) <br />
