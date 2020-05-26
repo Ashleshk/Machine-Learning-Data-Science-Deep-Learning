@@ -11,6 +11,8 @@ CNN From Scratch<br/>
 3. **Convolution**
 4. **Maxpool**
 5. **Sotmax**
+<br>
+
 Python for Data Analytics <br />
 1. **Learn Python in 10 Minutes** 
 2. **Numpy and Matplotlib Tutorial**  
@@ -24,12 +26,14 @@ Python for Data Analytics <br />
 9. **Perceptron And Gradient Descent**
 10. **Neural Networks and Backpropogation Algorithm**
 11. **Ensemble Learning** 
+<br>
 
 Deep Learning with Keras <br />
 1. **Convolutional Neural Networks with Keras** 
 2. **Word2vec implementation in gensim**
 3. **Simple LSTM implementation with Keras** 
 4. **LSTM implementation details with Keras, Normailzation, Activation, Loss**
+<br>
 
 Chat-Bot AI<br/>
 1. **Chatbot Preprocessing**
