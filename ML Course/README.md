@@ -11,10 +11,12 @@ Basics<br/>
 
 Supervised Learning<br/>
 1. **Linear Regression**
+2. 
+<br>
 
 UnSuperVised Learning<br/>
 1. **KMeans**
-2. **
+2. 
 
 Dimensionality Reduction <br />
 1. **PCA** 
@@ -23,17 +25,17 @@ Dimensionality Reduction <br />
 <br>
 
 Deep Learning with Keras <br />
-1. **Convolutional Neural Networks with Keras** 
-2. **Keras-RNN**
-3. **Simple LSTM implementation with Keras** 
-4. **LSTM implementation details with Keras, Normailzation, Activation, Loss**
+1. **Keras Demo**
+2. **eras-CNN** 
+3. **Keras-RNN**
+ 
 <br>
 
 Exercise<br/>
 1. **Conditional Probability**
 2. **Deep LEarning Project**
 3. **Final Project Assignment**
-4. **Chatbot Chat**
+
 <br>
 <br>
 Apart from this the datasets used are housing.csv, mnist.csv and smsspam
