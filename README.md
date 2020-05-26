@@ -9,7 +9,7 @@
  > 6. **Computer Vision**
  
   From Various Sources like -
-  * **Youtube**
+  * **Youtube** - [Semicolon](https://www.youtube.com/c/thesemicolon) - [DeepLearning.ai](https://www.youtube.com/c/deeplearningai)
   * **Coursera**
   * **Udemy**
   * **Online Reference** *Documentation Guide*
