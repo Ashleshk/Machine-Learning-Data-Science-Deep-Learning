@@ -21,7 +21,7 @@ Training & Testing (this is where you evaluate your trained classifier)
 Visualise Hog: simply allows you to see what the gradients calculated look like on a given image (specified by the user).
 
 The results of the trained person detector on a test image are as follows: Normal (RGB image)> HOG descriptors
-![test](https://user-images.githubusercontent.com/35964759/38281042-9523760a-37a0-11e8-914d-917308e3ac22.png)
+ 
 
 After classifying with a trained SVM model and applying NMS the following result is achieved:
 
