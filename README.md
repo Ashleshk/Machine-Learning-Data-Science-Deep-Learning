@@ -10,8 +10,8 @@
  
   From Various Sources like -
   * **Youtube** - [Semicolon](https://www.youtube.com/c/thesemicolon) - [DeepLearning.ai](https://www.youtube.com/c/deeplearningai)
-  * **Coursera**
-  * **Udemy**
+  * **Coursera** - [DeepLearning.ai](https://www.youtube.com/c/deeplearningai)
+  * **Udemy** - []
   * **Online Reference** *Documentation Guide*
     * **Scikit** - <a target="_blank" href="https://scikit-learn.org/stable/user_guide.html">link</a>
     * **Keras** - <a target="_blank" href="https://keras.io/api/preprocessing/image/">link</a>
