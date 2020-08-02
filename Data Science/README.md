@@ -15,3 +15,29 @@
 
  Content is updated as new versions of Power BI are released. You can always return to the course to further hone your skills, while you stay ahead of the competition.
 
+## Contents and Overview
+
+This course begins with Power BI basics. You will navigate the software, connect it to a data file, and export a worksheet, so even beginners will feel completely at ease.
+
+To be able to find trends in your data and make accurate forecasts, you'll learn how to work with hierarchies and timeseries.
+
+Also, to make data easier to digest, you'll tackle how to use aggregations to summarize information. You will also use granularity to ensure accurate calculations.
+
+In order to begin visualizing data, you'll cover how to create various charts, maps, scatterplots, and interactive dashboards for each of your projects.
+
+You'll even learn how to join multiple data sources into one in order to combine diverse sources of information in one analytical solution.
+
+Finally, you'll cover some of the latest and most advanced custom visualizations in Microsoft Power BI, where you will create histograms, brickcharts and more.
+
+By the time you complete this course, you'll be a highly proficient Power BI user. You will be using your skills as a data scientist to extract knowledge from data so you can analyze and visualize complex questions with ease.
+
+You'll be fully prepared to collect, examine, and present data for any purpose, whether you're working with scientific data or you want to make forecasts about buying trends to increase profits.
+
+## What you’ll learn
+* Connect Microsoft Power BI to data sources
+* Create Barcharts
+* Create Treemaps
+* Create Donut Charts
+* Create Waterfall Diagrams
+* Create Piecharts
+
