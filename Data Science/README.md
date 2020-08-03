@@ -64,3 +64,9 @@ You'll be fully prepared to collect, examine, and present data for any purpose, 
 ![Kirill Eremenko](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/kiril.jpg)
 
 > **Kirill Eremenko**, Data Scientist
+
+5. **Team**
+
+![Super Data Science Logo](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/27129696_acc1.jpg)
+
+> **SuperDataScience Team**,Helping Data Scientists Succeed
