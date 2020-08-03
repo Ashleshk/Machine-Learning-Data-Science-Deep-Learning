@@ -61,3 +61,5 @@ You'll be fully prepared to collect, examine, and present data for any purpose, 
 
 4. **Instructor**
 
+![Kirill Eremenko](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/kiril.jpg)
+
