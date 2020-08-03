@@ -56,3 +56,6 @@ You'll be fully prepared to collect, examine, and present data for any purpose, 
 3. **Certificate**
 
 ![Certificate](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/Certificate%20.PNG)
+
+> [Verified Certificate](https://www.udemy.com/certificate/UC-8ba58b0c-84ab-4486-9c9d-11eabc69cf40/)
+
