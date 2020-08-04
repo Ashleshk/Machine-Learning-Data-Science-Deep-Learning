@@ -30,3 +30,8 @@
 * Adding Actions to Dashboards (filters & highlighting)
 * Assigning Geographical Roles to Data Elements
 * Advanced Data Preparation (including latest updates in Tableau)
+
+## Instructor
+
+![Kirill Eremenko](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/kiril.jpg)
+
