@@ -40,3 +40,4 @@
 ## Reference Links
 1. **Course Reference Thumbnail**
 
+![Course Description](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/Description.PNG)
