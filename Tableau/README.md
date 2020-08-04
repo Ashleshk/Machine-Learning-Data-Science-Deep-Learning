@@ -35,3 +35,8 @@
 
 ![Kirill Eremenko](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/kiril.jpg)
 
+> **Kirill Eremenko** ,Data Scientist
+
+## Reference Links
+1. **Course Reference Thumbnail**
+
