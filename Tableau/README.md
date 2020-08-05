@@ -59,3 +59,7 @@
 4. **I am Extremely ThankFull For**
 
 ![Udemy](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/Udemy.PNG)
+
+> Course Link -> [Udemy](https://www.udemy.com/share/101WbsBUEecFdWRnQ=/)
+
+5. **Similar Courses**
