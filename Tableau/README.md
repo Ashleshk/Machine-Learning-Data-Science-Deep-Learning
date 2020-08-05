@@ -52,4 +52,4 @@
 
 3. **Certificate**
 
-![Certificate](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/Certificate.PNG)
+![Certificate](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/Certificate.PNG)
