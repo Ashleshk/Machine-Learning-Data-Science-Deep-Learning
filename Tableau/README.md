@@ -45,3 +45,5 @@
 > [Course Link](https://www.udemy.com/share/101WbsBUEecFdWRnQ=/)
 
 2. **Provided By**
+
+![Super Data Science Team](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/27129696_acc1.jpg)
