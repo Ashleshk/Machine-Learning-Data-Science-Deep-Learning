@@ -58,4 +58,4 @@
 
 4. **I am Extremely ThankFull For**
 
-![Udemy](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/Udemy.PNG)
+![Udemy](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Tableau/resource/Udemy.PNG)
