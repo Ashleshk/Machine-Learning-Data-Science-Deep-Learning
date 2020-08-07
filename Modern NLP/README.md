@@ -30,4 +30,4 @@
 | :-------------: |:-------------:|:-----:|
 ![Kirill Eremenko](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/kiril.jpg)| **Kirill Eremenko** | Data Scientist |
 |![Martin Jocqueviel](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/martin.jpg)| **Martin Jocqueviel**|Freelance data scientist|
-|![Hadelin de Ponteves](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/ponteves.jpg)|**Hadelin de Ponteves**|AI Entrepreneur|
+|![Hadelin de Ponteves](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/ponteves.jpg)|**Hadelin de Ponteves**|AI Entrepreneur|
