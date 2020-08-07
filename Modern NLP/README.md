@@ -13,4 +13,9 @@
 * Build a CNN specialized in NLP for any classification task (e.g. sentimental analysis)
 * Write a custom training process for more advanced training methods in NLP
 * Create customs layers and models in TF 2.0 for specific NLP tasks
-* 
+* Use Google Colab and Tensorflow 2.0 for your AI implementations
+* Pick the best model for each NLP task
+* Understand how we get computers to give meaning to the human language
+* Create datasets for AI from those data
+* Clean text data Understand why and how each of those models work
+* Understand everything about the attention mechanism, lying behind the newest and most powerful NLP algorithms
