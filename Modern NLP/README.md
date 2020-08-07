@@ -36,3 +36,5 @@
 1. **Course Reference Thumbnail**
 
 ![Course Description](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/description.PNG)
+
+ > [Udemy](https://www.udemy.com/share/102fxSBUEecFdWRnQ=/)
