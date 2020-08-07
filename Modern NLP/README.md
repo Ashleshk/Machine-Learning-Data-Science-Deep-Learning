@@ -35,4 +35,4 @@
 ## Reference Links
 1. **Course Reference Thumbnail**
 
-![Course Description](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/description.PNG)
+![Course Description](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/description.PNG)
