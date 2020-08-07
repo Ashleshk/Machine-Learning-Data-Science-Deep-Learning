@@ -19,3 +19,7 @@
 * Create datasets for AI from those data
 * Clean text data Understand why and how each of those models work
 * Understand everything about the attention mechanism, lying behind the newest and most powerful NLP algorithms
+
+
+## Certificate
+>  [Verifed Certificate](https://www.udemy.com/certificate/UC-ab49828e-5c2c-4b8a-bcef-5259d9153a10/)
