@@ -44,3 +44,5 @@
 ![Super Data Science Team](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/27129696_acc1.jpg)
 
 > **Note from Them** - We are the SuperDataScience Social team. You will be hearing from us when new SDS courses are released, when we publish new podcasts, blogs, share cheatsheets and more!.We are here to help you stay on the cutting edge of Data Science and Technology.
+
+3. **Certificate**
