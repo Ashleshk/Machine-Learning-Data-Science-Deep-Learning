@@ -56,3 +56,5 @@
  
 
  ![Udemy](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/Udemy.PNG)
+
+  > Course Link -> [Udemy](https://www.udemy.com/share/102fxSBUEecFdWRnQ=/)
