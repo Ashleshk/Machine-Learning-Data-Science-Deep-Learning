@@ -55,4 +55,4 @@
  4. **I am Extremely ThankFull For**
  
 
- ![Udemy](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/Udemy.PNG)
+ ![Udemy](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/Udemy.PNG)
