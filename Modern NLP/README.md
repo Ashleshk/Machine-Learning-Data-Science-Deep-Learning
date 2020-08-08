@@ -47,5 +47,5 @@
 
 3. **Certificate**
 
-![Certificate](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/certificate.PNG)
+![Certificate](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/certificate.PNG)
 
