@@ -41,4 +41,4 @@
 
  2. **Provided By**
  
-![Super Data Science Team](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/27129696_acc1.jpg)
+![Super Data Science Team](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/27129696_acc1.jpg)
