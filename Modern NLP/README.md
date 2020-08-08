@@ -49,3 +49,5 @@
 
 ![Certificate](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning/blob/master/Modern%20NLP/resource/certificate.PNG)
 
+
+ > [Verified Certificate](https://www.udemy.com/certificate/UC-ab49828e-5c2c-4b8a-bcef-5259d9153a10/)
