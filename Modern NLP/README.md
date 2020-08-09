@@ -65,5 +65,5 @@
   > 3. Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science -> [Course Link](https://www.udemy.com/course/machinelearning/) - [Github Link](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science)
   > 4. Modern-Natural-Language-Processing-in-Python -> [Course Link](https://www.udemy.com/course/modern-nlp/learn/) - [Github Link](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy)
   > 5. Machine-Learning-Data-Science-Deep-Learning -> [Course Link](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/learn/) - [Github Link](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning)
-  > 6. Computer-Vision-with-Python-Udemy -> 
+  > 6. Computer-Vision-with-Python-Udemy -> [Course Link]
 
