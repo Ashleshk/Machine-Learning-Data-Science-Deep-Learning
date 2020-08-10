@@ -20,4 +20,4 @@
 
 
 ##  **Similar Courses**
- > 1. Power BI A-Z_Hands-On Power BI Training For Data Science 
+ > 1. Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link]
