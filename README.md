@@ -17,3 +17,7 @@
     * **Keras** - <a target="_blank" href="https://keras.io/api/preprocessing/image/">link</a>
     * **NumPy** - <a target="_blank" href="https://numpy.org/doc/stable/user/quickstart.html">link</a>
     * **OpenCV** - <a target="_blank" href="https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_table_of_contents_gui/py_table_of_contents_gui.html">link</a>
+
+
+##  **Similar Courses**
+ > 1. Power BI A-Z_Hands-On Power BI Training For Data Science 
