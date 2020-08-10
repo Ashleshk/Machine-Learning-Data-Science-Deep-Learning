@@ -21,4 +21,4 @@
 
 ##  **Similar Courses**
  > 1. Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link](https://www.udemy.com/share/101WGaBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy)
- > 2. TensorFlow 2.0 Complete Reference Course -> [Course Link]
+ > 2. TensorFlow 2.0 Complete Reference Course -> [Course Link](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
